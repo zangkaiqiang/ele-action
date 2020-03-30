@@ -1,1 +1,4 @@
 datalab
+venv
+.idea
+.ipynb_checkpoints/
